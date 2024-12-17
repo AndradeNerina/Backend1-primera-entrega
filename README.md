@@ -1,0 +1,1 @@
+Desarrollo de un servidor basado en Node.JS y express, que escuche en el puerto 8080 y disponga de dos grupos de rutas: /products y /carts. Dichos endpoints estan implementados con el router de express.
